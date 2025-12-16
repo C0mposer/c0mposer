@@ -2,7 +2,7 @@
 - I'm a Spyro the Dragon speedrunner with a passion for game hacking, reverse engineering, and low-level programming.
 - I'm self taught, and have been programming for about 5 years.
 
-## Tools
+## Languages & Tools I'm Comfortable In
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
