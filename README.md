@@ -3,11 +3,11 @@
 - I'm self taught, and have been programming for about 5 years.
 
 ## Languages & Tools
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=000080)
-[![Ghidra](https://img.shields.io/badge/-Ghidra-05122A?style=flat&logo=Redragon&logoColor=61dafb)
+![C](https://img.shields.io/badge/-C--C-2D1B4D?style=flat&logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C%2B%2B--C-2D1B4D?style=flat&logo=c%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python--C-2D1B4D?style=flat&logo=python)
+![Lua](https://img.shields.io/badge/-Lua--C-2D1B4D?style=flat&logo=lua&logoColor=000080)
+![Ghidra](https://img.shields.io/badge/-Ghidra--C-2D1B4D?style=flat&logo=Redragon&logoColor=61dafb)
 
 ##
 
