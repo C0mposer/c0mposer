@@ -2,7 +2,6 @@
 - I'm a Spyro the Dragon speedrunner with a passion for game hacking, reverse engineering, and low-level programming.
 - I'm self taught, and have been programming for about 5 years.
 - Comfortable in: C, C++, Python, and Lua.
-- 
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
