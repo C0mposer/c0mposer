@@ -24,14 +24,12 @@
       <td><a href="https://github.com/C0mposer/C-Game-Modding-Utility"><b>C/C++ Game Modding Utility</b></a></td>
       <td><img alt="Language" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/C0mposer/C-Game-Modding-Utility?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+    </tr>    
+  </tbody>
+</table>
 
     <a href="https://www.speedrun.com/user/Composer">
   <img src="https://img.shields.io/badge/Speedrun.com-Profile-FF4C4C?style=flat-square&logo=speedrun" />
-</a>
   </a>
-    
-  </tbody>
-</table>
 
     
