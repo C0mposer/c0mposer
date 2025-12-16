@@ -40,5 +40,3 @@
 <a href="https://www.speedrun.com/user/Composer">
   <img src="https://img.shields.io/badge/Speedrun.com-Profile-FF4C4C?style=flat-square&logo=speedtest&logoColor=white" />
 </a>
-
-[![Composer's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0mposer&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
