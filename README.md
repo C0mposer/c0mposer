@@ -2,7 +2,7 @@
 - I'm a Spyro the Dragon speedrunner with a passion for game hacking, reverse engineering, and low-level programming.
 - I'm self taught, and have been programming for about 5 years.
 - Comfortable in: C, C++, Python, and Lua.
-<h3>Open source projects</h3>
+<h3>Open Source Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -17,5 +17,12 @@
       <td><b>C & Mips ASM</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/C0mposer/Spyro-1-Practice-Rom?style=flat-square&labelColor=343b41"/></td>
     </tr>
+      <tr>
+      <td><a href="https://github.com/C0mposer/C-Game-Modding-Utility"><b>C/C++ Game Modding Utility</b></a></td>
+      <td><b>Python</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/C0mposer/C-Game-Modding-Utility?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
     
