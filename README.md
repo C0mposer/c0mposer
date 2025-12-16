@@ -5,7 +5,7 @@
 ## Languages & Tools
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=pythonColor=yellow)
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/-Ghidra-05122A?style=flat&logo=Redragon&logoColor=red)
 
