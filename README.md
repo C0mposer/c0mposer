@@ -4,7 +4,7 @@
 - Comfortable in: C, C++, Python, and Lua.
 
 <a href="https://www.speedrun.com/user/Composer">
-  <img src="https://img.shields.io/badge/Speedrun.com-Profile-FF4C4C?style=flat-square&logo=speedtest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Speedrun.com-Profile-FF4C4C?style=flat-square&logo=gamedeveloper&logoColor=white" />
 </a>
 
 <h3>Open Source Projects</h3>
