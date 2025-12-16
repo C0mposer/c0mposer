@@ -2,6 +2,11 @@
 - I'm a Spyro the Dragon speedrunner with a passion for game hacking, reverse engineering, and low-level programming.
 - I'm self taught, and have been programming for about 5 years.
 - Comfortable in: C, C++, Python, and Lua.
+
+<a href="https://www.speedrun.com/user/Composer">
+  <img src="https://img.shields.io/badge/Speedrun.com-Profile-FF4C4C?style=flat-square&logo=speedtest&logoColor=white" />
+</a>
+
 <h3>Open Source Projects</h3>
 <table>
   <thead align="center">
@@ -27,9 +32,3 @@
     </tr>    
   </tbody>
 </table>
-
-    <a href="https://www.speedrun.com/user/Composer">
-  <img src="https://img.shields.io/badge/Speedrun.com-Profile-FF4C4C?style=flat-square&logo=speedrun" />
-  </a>
-
-    
