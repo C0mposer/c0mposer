@@ -28,9 +28,7 @@
     </tr>    
   </tbody>
 </table>
-
+##
 <a href="https://www.speedrun.com/user/Composer">
   <img src="https://img.shields.io/badge/Speedrun.com-Profile-FF4C4C?style=flat-square&logo=speedtest&logoColor=white" />
 </a>
-
-![Composer's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0mposer&show_icons=true&theme=dark)
