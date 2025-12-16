@@ -1,7 +1,13 @@
 ## About Composer
 - I'm a Spyro the Dragon speedrunner with a passion for game hacking, reverse engineering, and low-level programming.
 - I'm self taught, and have been programming for about 5 years.
-- Comfortable in: C, C++, Python, and Lua.
+
+## Tools
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=61dafb)
+
 ##
 
 <h3>Open Source Projects</h3>
