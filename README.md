@@ -3,11 +3,11 @@
 - I'm self taught, and have been programming for about 5 years.
 
 ## Languages & Tools
-![C](https://img.shields.io/badge/-C--C-2D1B4D?style=flat&logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C%2B%2B--C-2D1B4D?style=flat&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python--C-2D1B4D?style=flat&logo=python)
-![Lua](https://img.shields.io/badge/-Lua--C-2D1B4D?style=flat&logo=lua&logoColor=000080)
-![Ghidra](https://img.shields.io/badge/-Ghidra--C-2D1B4D?style=flat&logo=Redragon&logoColor=61dafb)
+![C](https://img.shields.io/badge/-C--C-05122A?style=flat&logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C%2B%2B--C-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python--C-05122A?style=flat&logo=python)
+![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=white)
+![Ghidra](https://img.shields.io/badge/-Ghidra--C-05122A?style=flat&logo=Redragon&logoColor=61dafb)
 
 ##
 
@@ -24,14 +24,14 @@
     <tr>
       <td><a href="https://github.com/C0mposer/Spyro-1-Practice-Rom"><b>Spyro the Dragon Practice Rom</b></a></td>
       <td>
-          <img alt="C" src="https://img.shields.io/badge/-C-2D1B4D?style=flat&logo=C&logoColor=A8B9CC"/>
-          <img alt="MIPS ASM" src="https://img.shields.io/badge/-MIPS%20ASM-2D1B4D?style=flat&logo=assemblyscript&logoColor=white"/>
+          <img alt="C" src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC"/>
+          <img alt="MIPS ASM" src="https://img.shields.io/badge/-MIPS%20ASM-05122A?style=flat&logo=assemblyscript&logoColor=white"/>
       </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/C0mposer/Spyro-1-Practice-Rom?style=flat-square&labelColor=343b41"/></td>
     </tr>
       <tr>
       <td><a href="https://github.com/C0mposer/C-Game-Modding-Utility"><b>C/C++ Game Modding Utility</b></a></td>
-      <td><img alt="Language" src="https://img.shields.io/badge/-Python-2D1B4D?style=flat&logo=python"/></td>
+      <td><img alt="Language" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/C0mposer/C-Game-Modding-Utility?style=flat-square&labelColor=343b41"/></td>
     </tr>    
   </tbody>
