@@ -28,6 +28,7 @@
 
     <a href="https://www.speedrun.com/user/Composer">
   <img src="https://img.shields.io/badge/Speedrun.com-Profile-FF4C4C?style=flat-square&logo=speedrun" />
+</a>
   </a>
     
   </tbody>
