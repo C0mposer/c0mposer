@@ -1,6 +1,6 @@
 ## About Composer
 - I'm a Spyro the Dragon speedrunner with a passion for game hacking, reverse engineering, and low-level programming.
-- I'm self taught, and have been programming for about 5 years.
+- I'm probably tweaking my editor configuration, instead of coding :p
 
 ## Languages & Tools
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
