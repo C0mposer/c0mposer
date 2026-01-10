@@ -8,6 +8,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/-Ghidra-05122A?style=flat&logo=Redragon&logoColor=red)
+![Mips ASM](https://img.shields.io/badge/-MIPS%20ASM-05122A?style=flat&logo=assemblyscript&logoColor=white)
 
 
 ##
